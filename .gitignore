@@ -1,0 +1,7 @@
+log.txt
+code.zip
+sample_pred.csv
+output.csv
+code/image_evidence.json
+__pycache__/
+*.py[cod]
